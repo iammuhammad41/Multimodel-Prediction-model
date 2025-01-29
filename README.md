@@ -1,2 +1,2 @@
 # Multimodel-Prediction-model
-Multimodel Prediction model for Heart disease
+Multimodel Prediction model for Heart sound
